@@ -10,5 +10,8 @@ https://excalidraw.com/#json=1ve6GM3Pk5mAbqDQiYTT_,yDLv8hLggqcLIRsHZ2zaCg
 #roman to integer
 https://excalidraw.com/#json=U3NFH9qT8SW8mpQAMV3zJ,v3NYpASRcTxzyok6Et9eSA
 
+#longest common prefix
+https://excalidraw.com/#json=4_Rwj8t1FD9O96IRWM-nq,5XCRd9fSziM2g7g3URbuAw
+
 
 

@@ -16,5 +16,8 @@ https://excalidraw.com/#json=4_Rwj8t1FD9O96IRWM-nq,5XCRd9fSziM2g7g3URbuAw
 #3sum 
 https://excalidraw.com/#json=fm4bxirSQSmDMfL81lZyh,83h8BIDCjd407ensYibiMw
 
+#3sum closest
+https://excalidraw.com/#json=OJjlz4f-cgIUuqO4pSatX,ZpjUk1mQRSUU_nGnshfs6A
+
 
 

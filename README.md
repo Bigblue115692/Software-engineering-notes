@@ -24,5 +24,8 @@ https://excalidraw.com/#json=U6GpCQC-vwYzX7-INV803,qOZn4Qq9OAzu-H_UCSj21Q
 https://excalidraw.com/#json=78A0ThAAS-CclT4DYHH3i,OoKFKh21a5GJTidWVZOgsQ
 https://excalidraw.com/#json=bgX3AWZ_7BEoQwjPKp3qK,wJ_1RGqS2VNH2yqTMj5KcQ
 
+#4sum
+https://excalidraw.com/#json=5_xM5Ed2qzgmTU91XWBZC,j9ZXEbCszCefDJqhKL_lNw
+
 
 

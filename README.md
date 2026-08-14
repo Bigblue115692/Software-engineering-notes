@@ -27,5 +27,8 @@ https://excalidraw.com/#json=bgX3AWZ_7BEoQwjPKp3qK,wJ_1RGqS2VNH2yqTMj5KcQ
 #4sum
 https://excalidraw.com/#json=5_xM5Ed2qzgmTU91XWBZC,j9ZXEbCszCefDJqhKL_lNw
 
+#remove nth node from linked list
+https://excalidraw.com/#json=jUiDarvkN9FmzRdTiKbGY,eqTmlYPE1oweEaDBA8zMCQ
+
 
 

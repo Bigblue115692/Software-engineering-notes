@@ -30,5 +30,8 @@ https://excalidraw.com/#json=5_xM5Ed2qzgmTU91XWBZC,j9ZXEbCszCefDJqhKL_lNw
 #remove nth node from linked list
 https://excalidraw.com/#json=jUiDarvkN9FmzRdTiKbGY,eqTmlYPE1oweEaDBA8zMCQ
 
+#valid parantheses
+https://excalidraw.com/#json=IZvj_c0yD7xokCOCMbFWV,xXgdZGfz0I1xRqq8A1AJFw
+
 
 

@@ -36,5 +36,8 @@ https://excalidraw.com/#json=IZvj_c0yD7xokCOCMbFWV,xXgdZGfz0I1xRqq8A1AJFw
 #merge two sorted lists
 https://excalidraw.com/#json=6T207S9YKlMPKwkhBrcoL,GvdthO8uAmln5iVlgfzFaA
 
+#generate parentheses
+https://excalidraw.com/#json=ojBjDSk4zZ5NIWiWegTJA,ryAI3cyf1OuNdWRoABpQZg
+
 
 

@@ -38,6 +38,7 @@ https://excalidraw.com/#json=6T207S9YKlMPKwkhBrcoL,GvdthO8uAmln5iVlgfzFaA
 
 #generate parentheses
 https://excalidraw.com/#json=ojBjDSk4zZ5NIWiWegTJA,ryAI3cyf1OuNdWRoABpQZg
+https://excalidraw.com/#json=V3y4TzoTU-Knh0izas7wx,3ucYuL1vWedL4SvlLylbiQ
 
 
 

@@ -40,5 +40,8 @@ https://excalidraw.com/#json=6T207S9YKlMPKwkhBrcoL,GvdthO8uAmln5iVlgfzFaA
 https://excalidraw.com/#json=ojBjDSk4zZ5NIWiWegTJA,ryAI3cyf1OuNdWRoABpQZg
 https://excalidraw.com/#json=V3y4TzoTU-Knh0izas7wx,3ucYuL1vWedL4SvlLylbiQ
 
+#forget which problem it was
+https://excalidraw.com/#json=A4hDE5km1nqXr4sIiegcF,431-UUV-MNyd-cru4_9oJg
+
 
 

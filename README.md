@@ -45,3 +45,9 @@ https://excalidraw.com/#json=A4hDE5km1nqXr4sIiegcF,431-UUV-MNyd-cru4_9oJg
 
 
 
+master notes
+https://excalidraw.com/#json=83eDNSDlphrp_BvGImdXu,nAVecJLBIf_WftBqSF-fNg
+
+
+
+
